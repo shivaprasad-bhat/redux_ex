@@ -1,6 +1,6 @@
-### Redux_Ex
+## Redux_Ex
 
-Redux_Ex is an app created to implement a simple blog application using redux.
+### Redux_Ex is an app created to implement a simple blog application using redux.
 
 [JSONPLACEHOLDER](https://jsonplaceholder.typicode.com/posts) is used to get the dummy data
 
