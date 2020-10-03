@@ -2,7 +2,7 @@
 
 Redux_Ex is an app created to implement a simple blog application using redux.
 
-[https://jsonplaceholder.typicode.com/posts](JsonPlaceHolderAPI) is used to get the dummy data
+[JSONPLACEHOLDER](https://jsonplaceholder.typicode.com/posts) is used to get the dummy data
 
 ## Available Scripts
 
