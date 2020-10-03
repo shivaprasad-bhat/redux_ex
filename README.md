@@ -4,13 +4,13 @@
 
 [JSONPLACEHOLDER](https://jsonplaceholder.typicode.com/posts) is used to get the dummy data
 
-## Available Scripts
-
-In the project directory, you can run:
-
 ### Created By
 
 Shivaprasad Bhat
+
+## Available Scripts
+
+In the project directory, you can run:
 
 ### `npm start`
 
